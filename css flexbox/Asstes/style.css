@@ -1,0 +1,22 @@
+ div header img{
+    height: 100px;
+    width: 100px;
+    }
+    .container{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.header{
+    margin: 0 10px;
+}
+nav div{
+    display: inline-block;
+    background-color: white;
+}
+.nav{
+    display: inline;
+    margin: 20px;
+    color: red;
+    
+}
